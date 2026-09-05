@@ -10,4 +10,3 @@ If this portfolio was useful to you or you'd like to support further Web3 securi
 
 | Datum | Titel | Chain/Technologie | Report |
 |---|---|---|---|
-| 2026-09-05 | fix: solution for issue #831 | Ethereum / EVM (Solidity) | [Report](audits/20260905_040115_job4023_fix_solution_for_issue_831.md) |
